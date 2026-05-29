@@ -1,0 +1,11 @@
+d:\zhouboyan\Demo\Project1\Project\bin\Release\Project.exe
+d:\zhouboyan\Demo\Project1\Project\bin\Release\Project.pdb
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.csproj.AssemblyReference.cache
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.UI.IOForm.resources
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.MainForm.resources
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.Properties.Resources.resources
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.UI.MotionForm.resources
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.csproj.GenerateResource.cache
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.csproj.CoreCompileInputs.cache
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.exe
+d:\zhouboyan\Demo\Project1\Project\obj\x86\Release\Project.pdb
